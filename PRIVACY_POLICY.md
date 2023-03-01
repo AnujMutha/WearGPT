@@ -24,4 +24,4 @@ We may update this Privacy Policy from time to time to reflect changes to our pr
 
 ## Contact Us
 
-If you have any questions or concerns about our Privacy Policy, please contact us at [developer.anuj16@gmail.com].
+If you have any questions or concerns about our Privacy Policy, please contact us at developer.anuj16@gmail.com
