@@ -1,4 +1,4 @@
-<center># Privacy Policy for WearGPT</center>
+# Privacy Policy for WearGPT
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you use WearGPT, which solely depends on OpenAI's GPT model for its entire functionality.
 
