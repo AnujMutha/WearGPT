@@ -1,4 +1,4 @@
-# Privacy Policy for WearGPT
+<p align="center"># Privacy Policy for WearGPT</p>
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you use WearGPT, which solely depends on OpenAI's GPT model for its entire functionality.
 
@@ -10,9 +10,13 @@ WearGPT collects voice input data through your device's microphone, which is use
 
 The voice input data collected by WearGPT is used solely for the purpose of providing the app's functionality and is not shared with third parties.
 
+## OpenAI's Privacy Policy
+
+WearGPT is built on OpenAI's GPT model, and as such, the use of WearGPT is also subject to OpenAI's privacy policy, which can be found at https://openai.com/policies.
+
 ## Permissions
 
-WearGPT only requires access to your device's internet connectivity for its functionality and does not require any additional permissions.
+WearGPT only requires access to your device's internet connectivity and microphone for its functionality and does not require any additional permissions.
 
 ## Changes to This Privacy Policy
 
@@ -20,4 +24,4 @@ We may update this Privacy Policy from time to time to reflect changes to our pr
 
 ## Contact Us
 
-If you have any questions or concerns about our Privacy Policy, please contact us at developer.anuj16@gmail.com
+If you have any questions or concerns about our Privacy Policy, please contact us at [email address].
