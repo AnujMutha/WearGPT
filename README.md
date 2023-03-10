@@ -1,6 +1,6 @@
-# WearGPT
+#  <img src="assets/AppLogo.png" alt="Logo"> WearGPT
 <p align="center">
-  <img src="assets/FeatureWallpaper.png" alt="A beautiful mountain landscape">
+  <img src="assets/FeatureWallpaper.png" alt="App Wallpaper">
 </p>
 
 Experience OpenAI's GPT Model on your wrist with WearGPT.
