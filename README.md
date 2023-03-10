@@ -1,4 +1,8 @@
 # WearGPT
+<p align="center">
+  <img src="assets/FeatureWallpaper.png" alt="A beautiful mountain landscape">
+</p>
+
 Experience OpenAI's GPT Model on your wrist with WearGPT.
 
 WearGPT is an innovative smartwatch app that allows users to access the advanced language processing capabilities of Open AI's GPT Model directly from their wrist. With WearGPT, you can easily ask questions, get instant answers, make quick calculations, and more - all without having to pull out your phone or open a browser.
