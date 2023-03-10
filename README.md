@@ -1,4 +1,4 @@
-#  <img src="assets/AppLogo.png" alt="Logo" width="25px" height = "25px"> WearGPT
+#  <img src="assets/AppLogo.png" alt="Logo" width="30px" height = "30px"> WearGPT
 <p align="center">
   <img src="assets/FeatureWallpaper.png" alt="App Wallpaper">
 </p>
