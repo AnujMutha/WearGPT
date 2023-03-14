@@ -22,3 +22,5 @@ Playstore Link : [Click Here](https://play.google.com/store/apps/details?id=com.
 ## Privacy Policy
 You can view our privacy policy [here](https://github.com/AnujMutha/WearGPT/blob/main/PRIVACY_POLICY.md).
 
+## Join Official Telegram Handle [<img src="https://img.icons8.com/3d-fluency/94/null/telegram.png"/>](https://t.me/WearGPT)
+
