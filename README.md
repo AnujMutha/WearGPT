@@ -1,3 +1,6 @@
+<code>Binaries uploading soon.., your patience is appreciated</code>
+
+
 #  <img src="assets/AppLogo.png" alt="Logo" width="30px" height = "30px"> WearGPT
 <p align="center">
   <img src="assets/FeatureWallpaper.png" alt="App Wallpaper">
