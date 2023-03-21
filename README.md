@@ -1,4 +1,4 @@
-<center><code>Binaries uploading soon.., your patience is appreciated</code></center>
+<pre>Binaries uploading soon. Your patience is appreciated</pre>
 
 
 #  <img src="assets/AppLogo.png" alt="Logo" width="30px" height = "30px"> WearGPT
