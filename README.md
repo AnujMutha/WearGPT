@@ -14,7 +14,7 @@
 <a> 
 | <img src="assets/App_Snapshots/thinking_text.png" width="270" height="270"> | <img src="assets/App_Snapshots/prompt.png" width="270" height="270"> | <img src="assets/App_Snapshots/tts_button.png" width="270" height="270"> |
 | <img src="assets/App_Snapshots/settings.png" width="270" height="270"> | 
- |-----------|------------|------------|--------------| 
+| :----------------------------------------------------------: | :--: | :--: | :--: |
   <img src="assets/App_Snapshots/modify_api_key_button.png" width="270" height="270"> | <img src="assets/App_Snapshots/enter_api_key.png" width="270" height="270"> |
 | <img src="assets/App_Snapshots/valid_api_key.png" width="270" height="270"> | <img src="assets/App_Snapshots/invalid_api_key.png" width="270" height="270"> | <img src="assets/App_Snapshots/info_card.png" width="270" height="270"> |
 | <img src="assets/App_Snapshots/settings.png" width="270" height="270"> | <img src="assets/App_Snapshots/settings.png" width="270" height="270"> | <img src="assets/App_Snapshots/settings.png" width="270" height="270"> |
