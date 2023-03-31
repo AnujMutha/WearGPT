@@ -36,6 +36,7 @@ Instructions
 <li>1. Go to OpenAI(https://openai.com/) and create an account</li>
 <li>2. Click on personal and then on "view API Keys"</li>
 <img src="assets/1.png" alt="Logo">
+<img src="assets/2.png" alt="Logo">
 <li></li>
 <li></li>
 <li></li>
