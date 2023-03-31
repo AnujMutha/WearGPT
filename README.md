@@ -4,7 +4,12 @@
 #  <img src="assets/AppLogo.png" alt="Logo" width="30px" height = "30px"> WearGPT
 <p align="center">
   <img src="assets/FeatureWallpaper.png" alt="App Wallpaper">
+</p></br>
+<a href="www.google.com">
+<p align="center">
+  <img src="assets/playstore.png" alt="App Wallpaper">
 </p>
+<a>
 
 Experience OpenAI's GPT Model on your wrist with WearGPT.
 
