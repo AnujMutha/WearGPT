@@ -6,9 +6,9 @@
   <img src="assets/FeatureWallpaper.png" alt="App Wallpaper">
 </p>
 <a href="https://play.google.com/store/apps/details?id=com.muthadevelopers.weargpt">
-<p align="center">
+<pre><p align="center">
   <img src="assets/playstore.png" width="225px" height="50px"alt="CLICK Google Play Store">
-</p>
+</p></pre>
 <a>
 
 Experience OpenAI's GPT Model on your wrist with WearGPT.
