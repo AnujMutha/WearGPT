@@ -79,6 +79,6 @@ Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's adv
 You can view our privacy policy [here](https://github.com/AnujMutha/WearGPT/blob/main/PRIVACY_POLICY.md).
 
 ## License</br>
-Apache License</br>.
+Apache License.</br>
 Version 2.0, January 2004</br>
 http://www.apache.org/licenses/
