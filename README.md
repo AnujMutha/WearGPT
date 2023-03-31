@@ -44,7 +44,7 @@ Instructions
 <li>5. Click on modify API button in app settings in your watch</li>
 <img src="assets/modify_api_key_button.jpg" alt="Logo">
 <li>6.Click on edit button and then Manually enter the API key in the given field</li>
-<img src="assets/enter_api_key.png" alt="Logo">
+<img src="assets/enter_api+key.png" alt="Logo">
 <li>7. After enetering the API key, click "done/tick" button of the keyboard.</li>
 <img src="assets/keyboard_done.jpg" alt="Logo">
 <li>8. After entering the API key, wait until the API key is validated and either "valid" or "invalid" text appears</li>
