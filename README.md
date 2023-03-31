@@ -6,15 +6,19 @@
   <img src="assets/FeatureWallpaper.png" alt="App Wallpaper">
 </p>
 
-| <a href="https://play.google.com/store/apps/details?id=com.muthadevelopers.weargpt">
+<a href="https://play.google.com/store/apps/details?id=com.muthadevelopers.weargpt">
 <p align="center">
   <img src="assets/playstore.png" width="225px" height="50px"alt="CLICK Google Play Store">
 </p>
-<a> |
+<a> 
+  
 | --- | --- | --- |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 | Row 1, Column 3 |
+| ![Snapshot 1](https://raw.githubusercontent.com/AnujMutha/WearGPT/master/assets/App Snapshot/thinking_text.png) | ![Snapshot 2](/assets/App Snapshot/prompt.png) | ![Snapshot 3](/assets/App Snapshot/tts_button.png) |
+| ![Snapshot 4](/assets/App Snapshot/settings.png) | ![Snapshot 5](/assets/App Snapshot/modify_api_key_button.png) | ![Snapshot 6](/assets/App%20Snapshot/enter_api_key.png) |
+| ![Snapshot 7](/assets/App Snapshot/valid_api_key.png) | ![Snapshot 8](/assets/App Snapshot/invalid_api_key.png) | ![Snapshot 9](/assets/App Snapshot/info_card.png) |
+| ![Snapshot 10](/assets/App Snapshot/image10.png) | ![Snapshot 11](/assets/App Snapshot/image11.png) | ![Snapshot 12](/assets/App Snapshot/image12.png) |
 
+  
 Experience OpenAI's GPT Model on your wrist with WearGPT.
 
 WearGPT is an innovative smartwatch app that allows users to access the advanced language processing capabilities of Open AI's GPT Model directly from their wrist. With WearGPT, you can easily ask questions, get instant answers, make quick calculations, and more - all without having to pull out your phone or open a browser.
