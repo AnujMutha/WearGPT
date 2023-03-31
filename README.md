@@ -18,6 +18,18 @@ With WearGPT, you can enjoy the benefits of ChatGPT's powerful language processi
 
 Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's advanced language processing capabilities directly from their smartwatch. It's easy to use, convenient, and provides quick and accurate responses to all your queries.
 
+#Features</br>
+• Access to ChatGPT's advanced AI language model on Wear OS devices
+• Voice input and output functionality for hands-free communication
+• Customizability through app settings to adjust header parameters and model to match user preferences and needs
+• Seamless integration with other Wear OS devices for easy use and access
+• Ability to seek answers to complex questions and engage in casual question and answering
+• Quick code template or segment suggestions for developers
+• Mathematical expression solving capabilities.
+• Suggestions and advice for given prompts such as new product launch descriptions or store listing ideas
+• Generation of context for short subjective emails
+• Endless use cases for creative and personalized experiences.
+
 Github Release : [Click Here](https://github.com/AnujMutha/WearGPT/releases/tag/Latest)
 
 Playstore Link : [Click Here](https://play.google.com/store/apps/details?id=com.muthadevelopers.weargpt)
