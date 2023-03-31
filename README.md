@@ -15,7 +15,7 @@
 | <img src="assets/App_Snapshots/thinking_text.png" width="225" height="225"> | <img src="assets/App_Snapshots/prompt.png" width="225" height="225"> | <img src="assets/App_Snapshots/tts_button.png" width="225" height="225"> | <img src="assets/App_Snapshots/settings.png" width="225" height="225"> |
 | :--: | :--: | :--: | :--: |
 | <img src="assets/App_Snapshots/modify_api_key_button.png" width="225" height="225"> | <img src="assets/App_Snapshots/enter_api_key.png" width="225" height="225"> | <img src="assets/App_Snapshots/valid_api_key.png" width="225" height="225"> | <img src="assets/App_Snapshots/invalid_api_key.png" width="225" height="225"> |
-| <img src="assets/App_Snapshots/info_card.png" width="225" height="225"> | <img src="assets/App_Snapshots/settings.png" width="225" height="225"> | <img src="assets/App_Snapshots/settings.png" width="225" height="225"> | <img src="assets/App_Snapshots/settings.png" width="225" height="225"> |
+| <img src="assets/App_Snapshots/info_card.png" width="225" height="225"> | <img src="assets/App_Snapshots/keyboard_done.png" width="225" height="225"> | <img src="assets/App_Snapshots/mic.png" width="225" height="225"> | <img src="assets/App_Snapshots/tts_settings.png" width="225" height="225"> |
 
   
 Experience OpenAI's GPT Model on your wrist with WearGPT.
