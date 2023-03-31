@@ -18,7 +18,7 @@ With WearGPT, you can enjoy the benefits of ChatGPT's powerful language processi
 
 Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's advanced language processing capabilities directly from their smartwatch. It's easy to use, convenient, and provides quick and accurate responses to all your queries.
 
-#Features</br>
+# Features</br>
 • Access to ChatGPT's advanced AI language model on Wear OS devices
 • Voice input and output functionality for hands-free communication
 • Customizability through app settings to adjust header parameters and model to match user preferences and needs
