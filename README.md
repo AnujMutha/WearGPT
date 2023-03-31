@@ -13,7 +13,7 @@
 <a> 
   
 | --- | --- | --- |
-| ![Snapshot 1](https://raw.githubusercontent.com/AnujMutha/WearGPT/master/assets/App Snapshot/thinking_text.png) | ![Snapshot 2](/assets/App Snapshot/prompt.png) | ![Snapshot 3](/assets/App Snapshot/tts_button.png) |
+| ![Snapshot 1](assets/App_Snapshot/thinking_text.png) | ![Snapshot 2](/assets/App Snapshot/prompt.png) | ![Snapshot 3](/assets/App Snapshot/tts_button.png) |
 | ![Snapshot 4](/assets/App Snapshot/settings.png) | ![Snapshot 5](/assets/App Snapshot/modify_api_key_button.png) | ![Snapshot 6](/assets/App%20Snapshot/enter_api_key.png) |
 | ![Snapshot 7](/assets/App Snapshot/valid_api_key.png) | ![Snapshot 8](/assets/App Snapshot/invalid_api_key.png) | ![Snapshot 9](/assets/App Snapshot/info_card.png) |
 | ![Snapshot 10](/assets/App Snapshot/image10.png) | ![Snapshot 11](/assets/App Snapshot/image11.png) | ![Snapshot 12](/assets/App Snapshot/image12.png) |
