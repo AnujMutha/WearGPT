@@ -4,12 +4,16 @@
 #  <img src="assets/AppLogo.png" alt="Logo" width="30px" height = "30px"> WearGPT
 <p align="center">
   <img src="assets/FeatureWallpaper.png" alt="App Wallpaper">
-</p></br>
-<a href="https://play.google.com/store/apps/details?id=com.muthadevelopers.weargpt">
-<p align="center">
-  <img src="assets/playstore.png" alt="CLICK Google Play Store">
 </p>
-<a>
+
+| <a href="https://play.google.com/store/apps/details?id=com.muthadevelopers.weargpt">
+<p align="center">
+  <img src="assets/playstore.png" width="225px" height="50px"alt="CLICK Google Play Store">
+</p>
+<a> |
+| --- | --- | --- |
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 | Row 1, Column 3 |
 
 Experience OpenAI's GPT Model on your wrist with WearGPT.
 
@@ -78,3 +82,8 @@ Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's adv
 
 ## Privacy Policy
 You can view our privacy policy [here](https://github.com/AnujMutha/WearGPT/blob/main/PRIVACY_POLICY.md).
+
+## License</br>
+Apache License.</br>
+Version 2.0, January 2004</br>
+http://www.apache.org/licenses/
