@@ -36,39 +36,39 @@ Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's adv
 <li>1. Go to OpenAI(https://openai.com/) and create an account</li>
 <li>2. Click on personal and then on "view API Keys"</li>
 <p align="center">
-<img src="assets/API_KEY_Instruction_1.png" alt="1">
+<img src="assets/API_Key/API_KEY_Instruction_1.png" alt="1">
 </p>
 <p align="center">
-<img src="assets/API_KEY_Instruction_2.png" alt="2">
+<img src="assets/API_Key/API_KEY_Instruction_2.png" alt="2">
 </p>
 <li>3. Click on "create a new secret key"</li>
 <p align="center">
-<img src="assets/API_KEY_Instruction_3.png" alt="3">
+<img src="assets/API_Key/API_KEY_Instruction_3.png" alt="3">
 </p>
 <li>4. Copy and store the secret key in a safe place</li>
 <p align="center">
-<img src="assets/API_KEY_Instruction_4.png" alt="Logo">
+<img src="assets/API_Key/API_KEY_Instruction_4.png" alt="Logo">
 </p>
 <li>5. Click on modify API button in app settings in your watch</li>
 <p align="center">
-<img src="assets/modify_api+key_button.jpg" alt="Logo">
+<img src="assets/App Snapshots/modify_api_key_button.jpg" alt="Logo">
 </p>
 <li>6.Click on edit button and then Manually enter the API key in the given field</li>
 <p align="center">
-<img src="assets/enter_api+key.png" alt="Logo">
+<img src="assets/App Snapshots/enter_api_key.png" alt="Logo">
 </p>
-<li>7. After enetering the API key, click "done/tick" button of the keyboard.</li>
+<li>7. After entering the API key, click "done/tick" button of the keyboard.</li>
 <p align="center">
-<img src="assets/keyboard_done.png" alt="Logo">
+<img src="assets/App Snapshots/keyboard_done.png" alt="Logo">
 </p>
 <li>8. After entering the API key, wait until the API key is validated and either "valid" or "invalid" text appears</li>
 <p align="center">
-<img src="assets/invalid_api_key.png" alt="Logo">
+<img src="assets/App Snapshots/invalid_api_key.png" alt="Logo">
 </p>
 <p align="center">
-<img src="assets/valid_api_key.png" alt="Logo">
+<img src="assets/App Snapshots/valid_api_key.png" alt="Logo">
 </p>
-<li>9. Done, Now you can use the app to make prompts and get response.</li>
+<li>9. Done, Now you can use the app to make prompts and get response.</li></br>
 <pre align="center">Before setting the API Key to watch, make sure you account has enough credits granted by OpenAI. you can check this under "view api usage" tab of OpenAI website</pre>
 
 Github Release : [Click Here](https://github.com/AnujMutha/WearGPT/releases/tag/Latest)
