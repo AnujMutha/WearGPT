@@ -12,10 +12,20 @@
 </p>
   </a>
 
-| <img src="assets/App_Snapshots/thinking_text.png" width="225" height="225"> | <img src="assets/App_Snapshots/prompt.png" width="225" height="225"> | <img src="assets/App_Snapshots/tts_button.png" width="225" height="225"> | <img src="assets/App_Snapshots/settings.png" width="225" height="225"> |
+|![snapshot1](assets/App_Snapshots/thinking_text.png)|
+|![snapshot2](assets/App_Snapshots/prompt.png)|
+|![snapshot3](assets/App_Snapshots/tts_button.png)|
+|![snapshot4](assets/App_Snapshots/settings.png)|
 | :--: | :--: | :--: | :--: |
-| <img src="assets/App_Snapshots/modify_api_key_button.png" width="225" height="225"> | <img src="assets/App_Snapshots/enter_api_key.png" width="225" height="225"> | <img src="assets/App_Snapshots/valid_api_key.png" width="225" height="225"> | <img src="assets/App_Snapshots/invalid_api_key.png" width="225" height="225"> |
-| <img src="assets/App_Snapshots/info_card.png" width="225" height="225"> | <img src="assets/App_Snapshots/keyboard_done.png" width="225" height="225"> | <img src="assets/App_Snapshots/mic.png" width="225" height="225"> | <img src="assets/App_Snapshots/tts_settings.png" width="225" height="225"> |
+|![snapshot5](assets/App_Snapshots/modify_api_key_button.png)|
+|![snapshot6](assets/App_Snapshots/enter_api_key.png)|
+|![snapshot7](assets/App_Snapshots/valid_api_key.png)|
+|![snapshot8](assets/App_Snapshots/invalid_api_key.png)|
+|![snapshot9](assets/App_Snapshots/info_card.png)|
+|![snapshot10](assets/App_Snapshots/keyboard_done.png)|
+|![snapshot11](assets/App_Snapshots/mic.png)|
+|![snapshot12](assets/App_Snapshots/tts_settings.png)|
+
 
   
 Experience OpenAI's GPT Model on your wrist with WearGPT.
