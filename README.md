@@ -7,7 +7,7 @@
 </p></br>
 <a href="https://play.google.com/store/apps/details?id=com.muthadevelopers.weargpt">
 <p align="center">
-  <img src="assets/playstore.png" alt="CLICK Google Play Store">
+  <img src="assets/playstore.png" width="788px" height="177px"alt="CLICK Google Play Store">
 </p>
 <a>
 
