@@ -46,12 +46,13 @@ Instructions
 <li>6.Click on edit button and then Manually enter the API key in the given field</li>
 <img src="assets/enter_api_key.png" alt="Logo">
 <li>7. After enetering the API key, click "done/tick" button of the keyboard.</li>
-<img src="assets/keyboard_done.png" alt="Logo">
-<li>8. After entering the API key, wait until the API key is validated snd either valid/invalid text appears</li>
+<img src="assets/keyboard_done.jpg" alt="Logo">
+<li>8. After entering the API key, wait until the API key is validated and either "valid" or "invalid" text appears</li>
 <img src="assets/invalid_api_key.png" alt="Logo">
 <img src="assets/valid_api_key.png" alt="Logo">
 <li>9. Done, Now you can use the app to make prompts and get response.</li>
 <pre align="center">Before setting the API Key to watch, make sure you account has enough credits grabted by OpenAI. you can check this under "view api usage" tab of OpenAI website</pre>
+
 Github Release : [Click Here](https://github.com/AnujMutha/WearGPT/releases/tag/Latest)
  
 Playstore Link : [Click Here](https://play.google.com/store/apps/details?id=com.muthadevelopers.weargpt)
