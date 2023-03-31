@@ -35,8 +35,8 @@ Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's adv
 ## Instructions
 <li>1. Go to OpenAI(https://openai.com/) and create an account</li>
 <li>2. Click on personal and then on "view API Keys"</li>
-<img src="assets/API_KEY_Instruction_1.png" alt="1">
-<img src="assets/API_KEY_Instruction_2.png" alt="2">
+<img align="center" src="assets/API_KEY_Instruction_1.png" alt="1">
+<img align="center" src="assets/API_KEY_Instruction_2.png" alt="2">
 <li>3. Click on "create a new secret key"</li>
 <img align="center"src="assets/API_KEY_Instruction_3.png" alt="3">
 <li>4. Copy and store the secret key in a safe place</li>
