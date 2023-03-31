@@ -51,7 +51,7 @@ Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's adv
 </p>
 <li>5. Click on modify API button in app settings in your watch</li>
 <p align="center">
-<img src="assets/App Snapshots/modify_api_key_button.jpg" alt="Logo">
+<img src="assets/App Snapshots/modify_api_key_button.png" alt="Logo">
 </p>
 <li>6.Click on edit button and then Manually enter the API key in the given field</li>
 <p align="center">
