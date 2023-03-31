@@ -12,7 +12,7 @@
 </p>
 <a> 
   
-| <img src="assets/App_Snapshots/thinking_text.png" width="384" height="384"> | <img src="assets/App_Snapshots/prompt.png" width="384" height="384"> | <img src="assets/App_Snapshots/tts_button.png" width="384" height="384"> |
+| <img src="assets/App_Snapshots/thinking_text.png" width="100" height="100"> | <img src="assets/App_Snapshots/prompt.png" width="384" height="384"> | <img src="assets/App_Snapshots/tts_button.png" width="384" height="384"> |
 | <img src="assets/App_Snapshots/settings.png" width="384" height="384"> | <img src="assets/App_Snapshots/modify_api_key_button.png" width="384" height="384"> | <img src="assets/App_Snapshots/enter_api_key.png" width="384" height="384"> |
 | <img src="assets/App_Snapshots/valid_api_key.png" width="384" height="384"> | <img src="assets/App_Snapshots/invalid_api_key.png" width="384" height="384"> | <img src="assets/App_Snapshots/info_card.png" width="384" height="384"> |
 | <img src="assets/App_Snapshots/image10.png" width="384" height="384"> | <img src="assets/App_Snapshots/image11.png" width="384" height="384"> | <img src="assets/App_Snapshots/image12.png" width="384" height="384"> |
