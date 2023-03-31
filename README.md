@@ -30,6 +30,9 @@ Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's adv
 <li>Generation of context for short subjective emails</li>
 <li>Endless use cases for creative and personalized experiences</li>
 
+# Usage </br>
+<pre align="center">You will need to generate and use your own API Key from [openAI](https://openai.com/)</pre>
+
 Github Release : [Click Here](https://github.com/AnujMutha/WearGPT/releases/tag/Latest)
 
 Playstore Link : [Click Here](https://play.google.com/store/apps/details?id=com.muthadevelopers.weargpt)
