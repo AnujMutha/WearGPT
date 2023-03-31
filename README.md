@@ -55,9 +55,9 @@ Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's adv
 </p>
 <li>6.Click on edit button and then Manually enter the API key in the given field</li>
 <p align="center">
-<img src="assets/App Snapshots/enter_api+key.png" alt="Logo">
+<img src="assets/App Snapshots/enter_api_key.png" alt="Logo">
 </p>
-<li>7. After enetering the API key, click "done/tick" button of the keyboard.</li>
+<li>7. After entering the API key, click "done/tick" button of the keyboard.</li>
 <p align="center">
 <img src="assets/App Snapshots/keyboard_done.png" alt="Logo">
 </p>
