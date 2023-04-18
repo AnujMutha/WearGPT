@@ -46,6 +46,7 @@ Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's adv
 # Usage </br>
 <pre align="center">You will need to generate and use your own API Key from OpenAI </pre>
 ## Instructions
+<pre align="center">Before setting the API Key to watch, make sure you account has enough credits granted by OpenAI. you can check this under "view api usage" tab of OpenAI website</pre>
 <li>1. Go to OpenAI(https://openai.com/) and create an account</li>
 <li>2. Click on personal and then on "view API Keys"</li></br>
 <p align="center">
@@ -82,7 +83,6 @@ Overall, WearGPT is a must-have app for anyone who wants to access ChatGPT's adv
 <img src="assets/App_Snapshots/valid_api_key.png" alt="Logo">
 </p>
 <li>9. Done, Now you can use the app to make prompts and get response.</li></br>
-<pre align="center">Before setting the API Key to watch, make sure you account has enough credits granted by OpenAI. you can check this under "view api usage" tab of OpenAI website</pre>
 
 ## Privacy Policy
 You can view our privacy policy [here](https://github.com/AnujMutha/WearGPT/blob/main/PRIVACY_POLICY.md).
